@@ -1,12 +1,5 @@
 ## Hi there 👋, I'm Daniel Salas
 
-**Full Stack Developer** | Asunción, Paraguay  
-📧 salastender@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/daniel-salas-7918091b2/)  
-💻 [GitHub](https://github.com/salasdaniel)
-
----
-
 ## 👋 About Me
 Full-stack developer with expertise in **Laravel, Django, PostgreSQL, and JavaScript**.  
 I build scalable web applications, integrate complex business logic, and automate workflows using **GitLab CI/CD**, API integrations, and DevOps tools.  
@@ -37,4 +30,9 @@ Results-oriented, adaptable, and driven to solve real problems in fast-paced env
 
 ## 🌱 Interests
 Running & Trail Running · Weight Lifting · Finance · Camping & Traveling
+
+Asunción, Paraguay  
+📧 salastender@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/daniel-salas-7918091b2/)  
+
 
