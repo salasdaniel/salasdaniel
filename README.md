@@ -1,5 +1,6 @@
 ## Hi there I'm Daniel 👋
 
+
 Full-stack developer with expertise in **Laravel, Django, PostgreSQL, and JavaScript**.  
 I build scalable web applications, integrate complex business logic, and automate workflows using **GitLab CI/CD**, API integrations, and DevOps tools.  
 Experienced in server management on **DigitalOcean**, SQL optimization, and creating intelligent solutions with **AI** and **no-code tools**.
